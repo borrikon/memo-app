@@ -1,6 +1,5 @@
 {
   "name": "memo-app",
-  "homepage": "https://borrikon.github.io/memo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
