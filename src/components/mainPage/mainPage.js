@@ -5,6 +5,7 @@ function MainPage(){
     return(
         <div className={styles.greeting}>
             <Button>Hello</Button>
+            <h1>Hello memo App</h1>
         </div>
     )
 }
